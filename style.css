@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-shadow: 0;
+}
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+}
+.image-grid {
+  display: inline-grid;
+}
+.table {
+  margin: 1rem;
+}
+.clm {
+  margin-bottom: 1rem;
+}
